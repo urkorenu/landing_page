@@ -20,6 +20,6 @@ document.getElementById("deploy-button").addEventListener("click", function() {
     });
 
     setTimeout(() => {
-        window.location.href = "https://linkedin.com/in/or-koren-a880b322a";
+        window.location.href = "https://linkedin.com/in/or-koren-a880b322a/";
     }, 6000);
 });
